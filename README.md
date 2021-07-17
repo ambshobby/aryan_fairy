@@ -1,1 +1,1 @@
-# aryan_fairy
+# FairyStarGame
